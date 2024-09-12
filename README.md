@@ -40,10 +40,10 @@ You need a modern web browser to run this game.
 ### Installation
 
 1. Clone the repo : 
-   git clone [https://github.com/sharath453/snake-game.git](https://github.com/sharath453/Snake_Game.git)
+git clone https://github.com/OriginalAuthor/Snake-Game.git
    
-2. Open the index.html file in your browser to start the game.
-3. Run the project in live server of prefered Browser
+3. Open the index.html file in your browser to start the game.
+4. Run the project in live server of prefered Browser
    
 # Usage
 1. Use the arrow keys to control the direction of the snake.
@@ -57,7 +57,7 @@ You need a modern web browser to run this game.
 5. Contributing
 
 # Contact
-Email - alsharath66@gmail.com <br>
-linkedin - https://www.linkedin.com/in/sharath-a-l-877754249/
+Email - prajwalgowdagowda65@gmail.com <br>
+linkedin - (https://www.linkedin.com/in/prajwal-gowda-h-g-148534242/)
 
-# Project Link: [https://github.com/sharath453/snake-game.git](https://github.com/sharath453/Snake_Game.git)
+
